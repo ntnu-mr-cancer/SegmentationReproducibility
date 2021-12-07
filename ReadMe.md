@@ -11,7 +11,7 @@ For detailed information about this method, please read our paper: https://www.m
 # Note
 The provided script was used for research use only.
 
-# How to cite the system
+# How to cite this work
 In case of using or refering to this script or study, please cite it as:
 
 Sunoqrot, M.R.S.; Selnæs, K.M.; Sandsmark, E.; Langørgen, S.; Bertilsson, H.; Bathen, T.F.; Elschot, M. The Reproducibility of Deep Learning-Based Segmentation of the Prostate Gland and Zones on T2-Weighted MR Images. Diagnostics 2021, 11, 1690.
