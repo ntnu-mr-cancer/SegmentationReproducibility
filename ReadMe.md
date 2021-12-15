@@ -26,6 +26,7 @@ Make sure that all of these files are in the same folder.
 
 **Input:**
 You will need to change the paths in the script, mainly the Master file and make sure you prepared the data according to the first section on the analysis script in Master.
+
 **Output:**
  Statistical analysis report with some figures, tables and examples.
   
