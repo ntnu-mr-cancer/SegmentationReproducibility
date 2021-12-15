@@ -20,7 +20,7 @@ https://doi.org/10.3390/diagnostics11091690
 # How to use the script
 This is a MATLAB® script, the script was written and tested using MATLAB® R2019b.
 
-The file "Master.m" is the main script that contains all the sub function of the analysis. It also allows to control which fuctions to run or not.
+The file "Master.m" is the main script that contains all the sub functions of the analysis. It also allows to control which fuctions to run or not.
 
 Make sure that all of these files are in the same folder.
 
